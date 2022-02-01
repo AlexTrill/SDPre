@@ -40,7 +40,7 @@ public class Objective6Lab1 {
          System.out.println("December");
          break;
      default:
-         System.out.println("That month dosent exist silly. ");
+         System.out.println("That is not a valid month. ");
          break;
 
    }
